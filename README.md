@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Hosted App
-Click [Here] (https://git-view-cli.vercel.app/)
+Click [Here](https://git-view-cli.vercel.app/)
